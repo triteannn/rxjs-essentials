@@ -1,0 +1,9 @@
+1. Get to know each other
+2. Agenda
+3. What is RxJS
+4. Observables
+5. Subjects
+6. Low order operators (most common)
+7. Marble diagrams
+8. Operator decision tree
+9. Searchbox exercise (Stackblitz fork) *if there's still time*
